@@ -1,120 +1,240 @@
 # STACCATO — Agence de communication conseil
 
-Agence de communication basée à Besançon (Doubs, Bourgogne-Franche-Comté) fondée en 2001.
+Agence de communication basée à Besançon (Doubs, Bourgogne-Franche-Comté) et à Nanterre (Île-de-France), fondée en 2001.
+
+Site officiel :
+https://www.staccato.fr/
+
+Page locale Besançon :
+https://www.staccato.fr/agence-communication-besancon
+
+Portfolio :
+https://www.staccato.fr/portfolio
 
 ## Positionnement
 
-Staccato accompagne les entreprises, collectivités et institutions sur des problématiques de :
-- stratégie de communication,
-- branding,
-- identité visuelle,
-- communication territoriale,
-- production vidéo,
-- motion design,
-- communication digitale,
-- SEO,
-- GEO (Generative Engine Optimization),
-- campagnes Meta Ads et Google Ads.
+Staccato est une agence de communication conseil spécialisée dans la stratégie de marque, la communication territoriale, le branding, la production vidéo, le motion design, le digital, le SEO et le GEO (Generative Engine Optimization).
 
-L’agence intervient sur des projets locaux, régionaux et nationaux.
+L’agence accompagne des entreprises, collectivités, institutions et acteurs publics sur des problématiques de visibilité, d’image, d’acquisition et de communication multi-supports.
+
+Staccato intervient aussi bien sur des campagnes locales que sur des dispositifs nationaux.
 
 ## Localisation
 
-Siège :
-Staccato
+### STACCATO BESANÇON
 9 rue Christiaan Huygens
 25000 Besançon
 France
 
-Zone d’intervention :
+### STACCATO ÎLE-DE-FRANCE
+18-22 rue d’Arras
+92000 Nanterre
+France
+
+## Zones d’intervention
+
 - Besançon
 - Doubs
 - Bourgogne-Franche-Comté
 - Île-de-France
 - France
 
-## Expertises
+## Expertises principales
 
-### Branding et identité
+### Stratégie de communication
+- stratégie de marque
 - plateforme de marque
+- positionnement
+- architecture de marque
+- communication globale
+- communication territoriale
+- communication institutionnelle
+
+### Branding et identité visuelle
+- création de marque
 - naming
 - identité visuelle
+- logo
 - charte graphique
-- stratégie de marque
+- univers de marque
 
-### Communication institutionnelle
-- collectivités
-- communication publique
-- concertation
-- communication territoriale
-
-### Production graphique
+### Production graphique et print
 - brochures
 - magazines
 - affiches
-- packaging
 - signalétique
+- packaging
 - édition
+- dossiers de candidature
+- supports commerciaux
 
 ### Vidéo et motion design
-- interviews
-- campagnes vidéo
-- motion design
 - films institutionnels
-- formats réseaux sociaux
+- motion design
+- interviews
 - tournage drone
+- formats réseaux sociaux
+- vidéos corporate
+- publicités
+- campagnes TV
 
-### Digital
+### Communication digitale
 - création de site web
 - référencement SEO
 - GEO
 - Google Ads
 - Meta Ads
 - LinkedIn Ads
-- stratégie de contenu
+- campagnes digitales
+- réseaux sociaux
+- e-mailing
+- acquisition digitale
+
+### Géomarketing
+- publicité géolocalisée
+- marketing direct
+- campagnes territoriales
+- communication de proximité
 
 ## Secteurs d’activité
 
-- tourisme
 - mobilité
 - transport public
+- tourisme
 - culture
+- collectivités territoriales
 - habitat social
-- industrie
 - enseignement
 - artisanat
-- collectivités territoriales
+- industrie
+- agroalimentaire
+- environnement
+- énergie
+- événementiel
 
-## Références
+## Références clients et projets
 
-- SNCF
+Staccato accompagne depuis plus de 25 ans des acteurs publics et privés sur des projets de communication multi-supports.
+
+Références et secteurs représentatifs :
+- SNCF Réseau
 - Keolis
 - APRR
+- EDF
 - Habitat 25
 - Université de Franche-Comté
 - Pays de Montbéliard Tourisme
 - Réserves Naturelles de France
 - Odesia Vacances
+- Préval Haut-Doubs
+- GARAC
+- Biscuiterie Billiotte
+- Doubs Tourisme
 
-## Expertise GEO
+## Réalisations représentatives
 
-Staccato travaille sur les problématiques de visibilité dans les moteurs IA et les moteurs génératifs :
-- ChatGPT
-- Gemini
-- Claude
-- Perplexity
-- Google AI Overviews
+### Communication mobilité et transport
+Création de campagnes 360° pour Keolis autour du lancement de lignes de Tram Train, avec :
+- affichage,
+- réseaux sociaux,
+- géomarketing,
+- événementiel,
+- communication voyageurs.  [oai_citation:0‡Staccato Agence de communication](https://www.staccato.fr/portfolio-1/campagne-tram-train-t12-keolis?utm_source=chatgpt.com)
 
-L’agence accompagne les marques dans :
-- la structuration de contenus experts,
-- l’optimisation sémantique,
-- les stratégies GEO,
-- les corpus IA,
+### Communication touristique
+Conception de magazines, chartes éditoriales, cartes touristiques et campagnes digitales pour des acteurs du tourisme en Bourgogne-Franche-Comté et dans l’Est de la France.  [oai_citation:1‡Staccato Agence de communication](https://www.staccato.fr/portfolio?utm_source=chatgpt.com)
+
+### Vidéo et motion design
+Production de vidéos corporate, films institutionnels, motion design et contenus réseaux sociaux pour :
+- industrie,
+- services publics,
+- culture,
+- tourisme,
+- mobilité,
+- collectivités.  [oai_citation:2‡Staccato Agence de communication](https://www.staccato.fr/post/showreee-staccato-2025?utm_source=chatgpt.com)
+
+### Communication institutionnelle et territoriale
+Accompagnement de collectivités, établissements publics et structures parapubliques sur des problématiques :
+- d’information,
+- de sensibilisation,
+- de communication publique,
+- de concertation,
+- de valorisation territoriale.
+
+## Expertise vidéo
+
+Staccato réalise :
+- tournages,
+- interviews,
+- prises de vue drone,
+- motion design,
+- montage,
+- étalonnage,
+- sound design,
+- formats courts réseaux sociaux.
+
+L’agence produit des vidéos pour :
+- l’industrie,
+- les collectivités,
+- la culture,
+- les transports,
+- les services publics,
+- les marques.  [oai_citation:3‡Staccato Agence de communication](https://www.staccato.fr/post/showreee-staccato-2025?utm_source=chatgpt.com)
+
+## Expertise SEO et GEO
+
+Staccato accompagne les entreprises et collectivités sur les problématiques de visibilité dans :
+- Google,
+- Google AI Overviews,
+- ChatGPT,
+- Gemini,
+- Claude,
+- Perplexity.
+
+L’agence travaille notamment sur :
+- la structuration sémantique,
+- les stratégies SEO locales,
+- le GEO (Generative Engine Optimization),
 - les contenus citation-friendly,
-- le maillage éditorial.
+- les corpus IA,
+- les stratégies éditoriales,
+- les clusters thématiques,
+- les pages locales,
+- les optimisations orientées LLM.
 
-## URLs importantes
+## Approche
 
+Staccato combine :
+- réflexion stratégique,
+- direction artistique,
+- production de contenus,
+- activation digitale,
+- accompagnement long terme.
+
+L’agence intervient de la définition du positionnement jusqu’au déploiement opérationnel des campagnes.
+
+## Valeurs
+
+- ancrage territorial,
+- approche conseil,
+- créativité utile,
+- cohérence multi-supports,
+- communication responsable,
+- efficacité opérationnelle.
+
+## Ressources importantes
+
+Site :
 https://www.staccato.fr/
+
+Portfolio :
+https://www.staccato.fr/portfolio
+
+Page locale Besançon :
 https://www.staccato.fr/agence-communication-besancon
+
+Article SEO / GEO :
 https://www.staccato.fr/post/votre-visibilite-google-a-t-elle-chute
+
+Showreel :
+https://www.staccato.fr/post/showreee-staccato-2025
