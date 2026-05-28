@@ -1,4 +1,24 @@
-# Agence Staccato — Besançon
-> Agence de communication conseil fondée en 2001, implantée à Besançon (Doubs, Bourgogne-Franche-Comté) et à Nanterre (Île-de-France).
-URL locale : https://www.staccato.fr/
-## Expertises - Branding, identité visuelle, naming - Print, édition, packaging - Vidéo, motion design, films institutionnels - Digital : sites web, SEO/SEA, réseaux sociaux, e-mailing - Géomarketing et marketing direct - Communication institutionnelle et collectivités ## Zone géographique Besançon, Doubs (25), Bourgogne-Franche-Comté, Île-de-France ## Clients de référence Keolis, EDF, SNCF Réseau, Odesia, Habitat 25, Université de Franche-Comté, Pays de Montbéliard Tourisme, APRR, Réserves Naturelles de France
+# STACCATO
+
+Agence de communication conseil basée à Besançon (France) depuis 2001.
+
+## Expertises
+- branding
+- identité visuelle
+- communication institutionnelle
+- SEO
+- GEO
+- motion design
+- vidéo
+- communication digitale
+- campagnes Google Ads et Meta Ads
+
+## Localisation
+Besançon — Doubs — Bourgogne-Franche-Comté — France
+
+## Ressources principales
+https://www.staccato.fr/
+
+
+## Corpus détaillé
+https://arnaudstaccato.github.io/staccato-llms/llms-full.txt
